@@ -7,6 +7,7 @@ Preprints:
 
 - https://doi.org/10.1101/2024.02.14.580321 - Resistify - A rapid and accurate annotation tool to identify NLRs and study their genomic organisation
 - https://doi.org/10.1101/2024.02.16.580628 - Transcriptional profiling during infection of potato NLRs and Phytophthora infestans effectors using cDNA enrichment sequencing
+- https://doi.org/10.1101/2023.12.11.571102 - Polymorphism-aware models in RevBayes: Species trees, disentangling Balancing Selection and CG-biased gene conversion
 - https://doi.org/10.1101/2023.03.24.534090 - THAPBI PICT - a fast, cautious, and accurate metabarcoding analysis pipeline
 - https://doi.org/10.1101/2022.06.22.497172 - KPop: An assembly-free and scalable method for the comparative analysis of microbial genomes
 - https://doi.org/10.1101/2022.09.23.22279632 - Consideration of within-patient diversity highlights transmission pathways and antimicrobial resistance gene variability in vancomycin resistant Enterococcus faecium
@@ -15,7 +16,6 @@ Preprints:
 - https://doi.org/10.1101/2021.09.02.458763  - A high resolution single molecule sequencing-based Arabidopsis transcriptome using novel methods of Iso-seq analysis
 - https://doi.org/10.21203/rs.3.rs-137842/v1 - QTL Across Fruit Development in Red Raspberry, A Study of A Primocane X Biennial Raspberry Population
 - https://doi.org/10.1101/2021.08.12.456076 - Analysis of wild plant pathogen populations reveals a signal of adaptation in genes evolving for survival in agriculture in the beet rust pathogen (Uromyces beticola)
-- https://doi.org/10.1101/2022.03.16.484639 - Selection on the fly: short term adaptation to an altered sexual selection regime in Drosophila pseudoobscura
 - https://doi.org/10.1101/2022.09.13.507768 - Genomic erosion in the assessment of species extinction risk
 
 2024:
@@ -34,7 +34,7 @@ Preprints:
 - https://doi.org/10.1093/aob/mcae022 - Phylogenomic analysis reveals five independently evolved African forage grass clades in the genus Urochloa
 
 2023:
-
+-  https://doi.org/10.1093/gbe/evad113 - Selection on the fly: short term adaptation to an altered sexual selection regime in Drosophila pseudoobscura
 - https://doi.org/10.1111/nph.19421 - Global analysis of Poales diversification – parallel evolution in space and time into open and closed habitats
 - https://doi.org/10.1093/hr/uhad211 - SMRT–AgRenSeq-d in potato (Solanum tuberosum) as a method to identify candidates for the nematode resistance Gpa5
 - https://doi.org/10.1111/nph.19421 - Global analysis of Poales diversification – parallel evolution in space and time into open and closed habitats
