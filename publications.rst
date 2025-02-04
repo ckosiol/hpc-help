@@ -13,7 +13,6 @@ Preprints:
 - https://doi.org/10.1101/2021.09.02.458763  - A high resolution single molecule sequencing-based Arabidopsis transcriptome using novel methods of Iso-seq analysis
 - https://doi.org/10.21203/rs.3.rs-137842/v1 - QTL Across Fruit Development in Red Raspberry, A Study of A Primocane X Biennial Raspberry Population
 - https://doi.org/10.1101/2021.08.12.456076 - Analysis of wild plant pathogen populations reveals a signal of adaptation in genes evolving for survival in agriculture in the beet rust pathogen (Uromyces beticola)
-- https://doi.org/10.1101/2022.03.16.484639 - Selection on the fly: short term adaptation to an altered sexual selection regime in Drosophila pseudoobscura
 - https://doi.org/10.1101/2022.09.13.507768 - Genomic erosion in the assessment of species extinction risk
 
 2025:
@@ -21,7 +20,8 @@ Preprints:
 - https://doi.org/10.1177/11779322241308944 - Resistify: A Novel NLR Classifier That Reveals Helitron-Associated NLR Expansion in Solanaceae
 
 2024:
-
+- https://doi.org/10.1093/molbev/msae138 - Polymorphism-Aware Models in RevBayes: Species Trees, Disentangling Balancing Selection, and GC-Biased Gene Conversion
+- https://doi.org/10.1093/gbe/evad113 - Selection on the fly: short term adaptation to an altered sexual selection regime in Drosophila pseudoobscura
 - https://doi.org/10.1111/ejss.13538 - A Deep Learning Approach for High-Resolution Mapping of Scottish Peatland Degradation
 - https://doi.org/10.1002/ppp3.10607 - UKCropDiversity-HPC: A collaborative high-performance computing resource approach for sustainable agriculture and biodiversity conservation
 - https://doi.org/10.1111/nph.20263 - A nuclear phylogenomic tree of grasses (Poaceae) recovers current classification despite gene tree incongruence
